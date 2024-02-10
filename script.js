@@ -1,4 +1,4 @@
-// script.js
+// This script is unused. 
 
 function updateMessages() {
     fetch('get_messages.php')
